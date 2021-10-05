@@ -2,6 +2,9 @@
 ![](https://s3.bmp.ovh/imgs/2021/10/5782d8b3cbde6179.png)
 ### 在线示例：[点击查看](http://rotatecaptcha.demo.api0.cn/)
 ****
+### 国内访问加速：
+Gitee码云：[点击跳转](https://gitee.com/t1zf/rotateCaptcha/)
+****
 ### 运行环境要求:
 - web服务器：Nginx或Apache
 - php脚本环境：PHP8(需要安装扩展：redis，取消禁用函数: shell_exec)
