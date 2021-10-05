@@ -1,5 +1,7 @@
 # 旋转验证码 - PHP接口v0.1
 ![](https://s3.bmp.ovh/imgs/2021/10/5782d8b3cbde6179.png)
+### 在线示例：[点击查看](http://rotatecaptcha.demo.api0.cn/)
+****
 ### 运行环境要求:
 - web服务器：Nginx或Apache
 - php脚本环境：PHP8(需要安装扩展：redis，取消禁用函数: shell_exec)
@@ -31,8 +33,8 @@ npm i
 7. 通过浏览器访问刚配置好的网站，如果看到验证码测试页面，即代表安装成功！
 ****
 ### vue前端接入：
-- VueCli示例源码：[查看开源地址]()
-- UNIAPP示例源码：[查看开源地址]()
+- VueCli示例源码：[查看开源地址](https://github.com/1615958039/rotateCaptcha_vuecli)
+- UNIAPP示例源码：[查看开源地址](https://github.com/1615958039/rotateCaptcha_uniapp)
 ****
 文档还在继续完善中，敬请期待...
 ****
