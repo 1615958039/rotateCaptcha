@@ -1,0 +1,20 @@
+{
+  "name": "gd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js D:\\node\\gd\\ph.jpg D:\\node\\gd\\aaa.png"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/register": "^7.10.3",
+    "ts-node": "^8.10.2"
+  }
+}

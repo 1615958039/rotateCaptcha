@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^(.*?).json$ $1.php
+RewriteRule ^nodejs /404.html
+
+## nginx: 
+## rewrite ^(.*).json$ /$1.php;
+## rewrite ^\/nodejs /404.html;
