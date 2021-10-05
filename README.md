@@ -1,4 +1,5 @@
 # 旋转验证码 - PHP接口v0.1
+![](https://s3.bmp.ovh/imgs/2021/10/5782d8b3cbde6179.png)
 ### 运行环境要求:
 - web服务器：Nginx或Apache
 - php脚本环境：PHP8(需要安装扩展：redis，取消禁用函数: shell_exec)
